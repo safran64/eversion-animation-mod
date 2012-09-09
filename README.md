@@ -17,11 +17,9 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ----------------------------------------------------------------------
-Tweenlite/TweenNano by Greensock; SOURCE CODE MUST NOT BE CHANGED!
-Read http://www.greensock.com/terms_of_use.html
+Tweenlite/TweenNano by Greensock; SOURCE CODE MUST NOT BE CHANGED! 
+Read www.greensock.com/terms_of_use.html
 ----------------------------------------------------------------------
 DynamicRegistration. Copyright (c) 2003 Darron Schall (according to author, based on Robert Penner's (www.robertpenner.com) ActionScript 1 implementation)
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
